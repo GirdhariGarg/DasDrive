@@ -1,0 +1,104 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Category Suite" verbose = "1" >
+
+	<test name="Category 1"  >
+		<classes>
+			<class name="Category.CTC_01">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Category 2"  >
+		<classes>
+			<class name="Category.CTC_02">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Category 3"  >
+		<classes>
+			<class name="Category.CTC_03">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Category 4"  >
+		<classes>
+			<class name="Category.CTC_04">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Category 5"  >
+		<classes>
+			<class name="Category.CTC_05">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Category 6"  >
+		<classes>
+			<class name="Category.CTC_06">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Category 7"  >
+		<classes>
+			<class name="Category.CTC_07">
+			</class>
+		</classes>
+	</test>
+	
+	
+	
+	<test name="Category 8"  >
+		<classes>
+			<class name="Category.CTC_08">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Category 9"  >
+		<classes>
+			<class name="Category.CTC_09">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Category 10"  >
+		<classes>
+			<class name="Category.CTC_10">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Category 11"  >
+		<classes>
+			<class name="Category.CTC_11">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Category 12"  >
+		<classes>
+			<class name="Category.CTC_12">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Category 13"  >
+		<classes>
+			<class name="Category.CTC_13">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Category 14"  >
+		<classes>
+			<class name="Category.CTC_14">
+			</class>
+		</classes>
+	</test>
+	
+	</suite>

@@ -1,0 +1,46 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Edit Category Settings Suite" verbose = "1" >
+
+	<test name="Edit Category Settings 1"  >
+		<classes>
+			<class name="editCategorySettings.ECST_01">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Settings 2"  >
+		<classes>
+			<class name="editCategorySettings.ECST_02">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Settings 3"  >
+		<classes>
+			<class name="editCategorySettings.ECST_03">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Settings 4"  >
+		<classes>
+			<class name="editCategorySettings.ECST_04">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Settings 5"  >
+		<classes>
+			<class name="editCategorySettings.ECST_05">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Settings 6"  >
+		<classes>
+			<class name="editCategorySettings.ECST_06">
+			</class>
+		</classes>
+	</test>
+	
+	</suite>

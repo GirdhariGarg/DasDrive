@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Volume2" verbose = "1" >
+<parameter name ="TDSheet" value="AddVolume"/>
+	<test name="VolumeBase"  >
+	
+		<classes>
+			<class name="TestBase.volumetestfile">
+			</class>
+		</classes>
+	</test>
+	</suite>

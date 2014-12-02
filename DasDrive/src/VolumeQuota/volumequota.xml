@@ -1,0 +1,53 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Volume Quota  Suite" verbose = "1" >
+
+	<test name="Volume Quota 1"  >
+		<classes>
+			<class name="VolumeQuota.VEQ_01">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Volume Quota 2"  >
+		<classes>
+			<class name="VolumeQuota.VEQ_02">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Volume Quota 3"  >
+		<classes>
+			<class name="VolumeQuota.VEQ_03">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Volume Quota 4"  >
+		<classes>
+			<class name="VolumeQuota.VEQ_04">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Volume Quota 5"  >
+		<classes>
+			<class name="VolumeQuota.VEQ_05">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Volume Quota 6"  >
+		<classes>
+			<class name="VolumeQuota.VEQ_06">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Volume Quota 7"  >
+		<classes>
+			<class name="VolumeQuota.VEQ_07">
+			</class>
+		</classes>
+	</test>
+
+	</suite>

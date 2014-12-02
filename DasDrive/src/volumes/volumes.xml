@@ -1,0 +1,87 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Volume" verbose = "1" >
+	<test name="VST_01" >
+		<classes>
+			<class name="volumes.VST_01">
+			</class>
+		</classes>
+	</test>
+	<test name="VST_02">
+		<classes>
+			<class name="volumes.VST_02">
+			</class>
+		</classes>
+	</test>
+	<test name="VST_03">
+		<classes>
+			<class name="volumes.VST_03">
+			</class>
+		</classes>
+	</test>
+	<test name="VST_04">
+		<classes>
+			<class name="volumes.VST_04">
+			</class>
+		</classes>
+	</test>
+	<test name="VST_05">
+		<classes>
+			<class name="volumes.VST_05">
+			</class>
+		</classes>
+	</test>
+	<test name="VST_06">
+		<classes>
+			<class name="volumes.VST_06">
+			</class>
+		</classes>
+	</test>
+	<test name="VST_07">
+		<classes>
+			<class name="volumes.VST_07">
+			</class>
+		</classes>
+	</test>
+	<test name="VST_08">
+		<classes>
+			<class name="volumes.VST_08">
+			</class>
+		</classes>
+	</test>
+	<test name="VST_09">
+		<classes>
+			<class name="volumes.VST_09">
+			</class>
+		</classes>
+	</test>
+	<test name="VST_10">
+		<classes>
+			<class name="volumes.VST_10">
+			</class>
+		</classes>
+	</test>
+	<test name="VST_11">
+		<classes>
+			<class name="volumes.VST_11">
+			</class>
+		</classes>
+	</test>
+	<test name="VST_012">
+		<classes>
+			<class name="volumes.VST_12">
+			</class>
+		</classes>
+	</test>
+	<test name="VST13">
+		<classes>
+			<class name="volumes.VST_13">
+			</class>
+		</classes>
+	</test>
+	<test name="VST_14">
+		<classes>
+			<class name="volumes.VST_14">
+			</class>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke Suite" verbose="1">
+<suite-files>
+<suite-file path="AboutUs\aboutus.xml"></suite-file>
+<suite-file path="Connect\connect.xml"></suite-file>
+<suite-file path="volumes\volumes.xml"></suite-file>
+<suite-file path="AddVolume\addvolume.xml"></suite-file>
+<suite-file path="EditVolume\editvolume.xml"></suite-file>
+<suite-file path="VolumePermission\volumepermission.xml"></suite-file>
+<suite-file path="VolumeQuota\volumequota.xml"></suite-file>
+<suite-file path="VolumeEncryption\volumeencryption.xml"></suite-file>
+<suite-file path="DamPlugin\damplugin.xml"></suite-file>
+<suite-file path="Users\users.xml"></suite-file>
+<suite-file path="AddUser\adduser.xml"></suite-file>
+<suite-file path="EditUserGI\editusergi.xml"></suite-file>
+<suite-file path="EditUserAct\edituseract.xml"></suite-file>
+<suite-file path="EditUserAul\edituseraul.xml"></suite-file>
+<suite-file path="EditUserRL\edituserrl.xml"></suite-file>
+<suite-file path="Groups\groups.xml"></suite-file>
+<suite-file path="vieweditaccount\vieweditaccount.xml"></suite-file>
+<suite-file path="documentBundle\documentbundle.xml"></suite-file>
+<suite-file path="Category\category.xml"></suite-file>
+<suite-file path="addcategory\addcategory.xml"></suite-file>
+<suite-file path="editCategory\editcategory.xml"></suite-file>
+<suite-file path="editCategoryentries\editcategoryentries.xml"></suite-file>
+<suite-file path="editCategorySettings\editcategorysettings.xml"></suite-file>
+<suite-file path="search\search.xml"></suite-file>
+<suite-file path="searchbyfile\searchbyfile.xml"></suite-file>
+<suite-file path="searchbytag\searchbytag.xml"></suite-file> 
+</suite-files>
+</suite> 

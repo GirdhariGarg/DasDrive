@@ -1,0 +1,46 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Search By Tag  Suite" verbose = "1" >
+
+	<test name="Search By Tag 1"  >
+		<classes>
+			<class name="searchbytag.SBTTC_01">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By Tag 2"  >
+		<classes>
+			<class name="searchbytag.SBTTC_02">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By Tag 3"  >
+		<classes>
+			<class name="searchbytag.SBTTC_03">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By Tag 4"  >
+		<classes>
+			<class name="searchbytag.SBTTC_04">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By Tag 5"  >
+		<classes>
+			<class name="searchbytag.SBTTC_05">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By Tag 6"  >
+		<classes>
+			<class name="searchbytag.SBTTC_06">
+			</class>
+		</classes>
+	</test>
+	
+	</suite>

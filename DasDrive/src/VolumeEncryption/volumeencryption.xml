@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Volume Encryption  Suite" verbose = "1" >
+
+	<test name="Volume Encryption 1"  >
+		<classes>
+			<class name="VolumeEncryption.VEE_01">
+			</class>
+		</classes>
+	</test>
+	
+	</suite>

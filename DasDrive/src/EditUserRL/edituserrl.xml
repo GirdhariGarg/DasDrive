@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Edit User Relative groups Suite" verbose = "1" >
+
+	<test name="Edit User Relative Group 1"  >
+		<classes>
+			<class name="EditUserRL.RLTC_01">
+			</class>
+		</classes>
+	</test>
+	
+	</suite>

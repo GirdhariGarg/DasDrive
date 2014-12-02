@@ -1,0 +1,193 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Group  Suite" verbose = "1" >
+
+	<test name="Group 1"  >
+		<classes>
+			<class name="Groups.GTC_01">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 2"  >
+		<classes>
+			<class name="Groups.GTC_02">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 3"  >
+		<classes>
+			<class name="Groups.GTC_03">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 4"  >
+		<classes>
+			<class name="Groups.GTC_04">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 5"  >
+		<classes>
+			<class name="Groups.GTC_05">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 6"  >
+		<classes>
+			<class name="Groups.GTC_06">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 7"  >
+		<classes>
+			<class name="Groups.GTC_07">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 8"  >
+		<classes>
+			<class name="Groups.GTC_08">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 9"  >
+		<classes>
+			<class name="Groups.GTC_09">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 10"  >
+		<classes>
+			<class name="Groups.GTC_10">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 11"  >
+		<classes>
+			<class name="Groups.GTC_11">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 12"  >
+		<classes>
+			<class name="Groups.GTC_12">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 13"  >
+		<classes>
+			<class name="Groups.GTC_13">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 14"  >
+		<classes>
+			<class name="Groups.GTC_14">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 15"  >
+		<classes>
+			<class name="Groups.GTC_15">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 16"  >
+		<classes>
+			<class name="Groups.GTC_16">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 17"  >
+		<classes>
+			<class name="Groups.GTC_17">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 18"  >
+		<classes>
+			<class name="Groups.GTC_18">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 19"  >
+		<classes>
+			<class name="Groups.GTC_19">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 20"  >
+		<classes>
+			<class name="Groups.GTC_20">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 21"  >
+		<classes>
+			<class name="Groups.GTC_21">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 22"  >
+		<classes>
+			<class name="Groups.GTC_22">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 23"  >
+		<classes>
+			<class name="Groups.GTC_23">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 24"  >
+		<classes>
+			<class name="Groups.GTC_24">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 25"  >
+		<classes>
+			<class name="Groups.GTC_25">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 26"  >
+		<classes>
+			<class name="Groups.GTC_26">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Group 27"  >
+		<classes>
+			<class name="Groups.GTC_27">
+			</class>
+		</classes>
+	</test>
+	
+	</suite>

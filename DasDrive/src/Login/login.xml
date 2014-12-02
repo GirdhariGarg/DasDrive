@@ -1,0 +1,60 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Login Suite" verbose = "1" >
+
+	<test name="Login 1"  >
+		<classes>
+			<class name="Login.DLP_01">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Login 2"  >
+		<classes>
+			<class name="Login.DLP_02">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Login 3"  >
+		<classes>
+			<class name="Login.DLP_03">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Login 4"  >
+		<classes>
+			<class name="Login.DLP_04">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Login 5"  >
+		<classes>
+			<class name="Login.DLP_05">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Login 6"  >
+		<classes>
+			<class name="Login.DLP_06">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Login 7"  >
+		<classes>
+			<class name="Login.DLP_07">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Login 8"  >
+		<classes>
+			<class name="Login.DLP_08">
+			</class>
+		</classes>
+	</test>
+	
+	</suite>

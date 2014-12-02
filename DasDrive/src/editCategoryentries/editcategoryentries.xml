@@ -1,0 +1,213 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Edit Category Entries Entries Suite" verbose = "1" >
+
+	<test name="Edit Category Entries Entries 1"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_01">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 2"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_02">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 3"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_03">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 4"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_04">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 5"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_05">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 6"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_06">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 7"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_07">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 8"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_08">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 9"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_09">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 10"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_10">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 11"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_11">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 12"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_12">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 13"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_13">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 14"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_14">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 15"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_15">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 16"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_16">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 17"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_17">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 18"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_18">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 19"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_19">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 20"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_20">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 21"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_21">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 22"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_22">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 23"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_23">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 24"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_24">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 25"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_25">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 26"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_26">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 27"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_27">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 28"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_28">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 29"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_29">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Category Entries 30"  >
+		<classes>
+			<class name="editCategoryentries.SSCT_30">
+			</class>
+		</classes>
+	</test>
+	</suite>

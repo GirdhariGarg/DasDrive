@@ -1,0 +1,109 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Users  Suite" verbose = "1" >
+
+	<test name="Users 1"  >
+		<classes>
+			<class name="Users.AUT_01">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Users 2"  >
+		<classes>
+			<class name="Users.AUT_02">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Users 3"  >
+		<classes>
+			<class name="Users.AUT_03">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Users 4"  >
+		<classes>
+			<class name="Users.AUT_04">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Users 5"  >
+		<classes>
+			<class name="Users.AUT_05">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Users 6"  >
+		<classes>
+			<class name="Users.AUT_06">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Users 7"  >
+		<classes>
+			<class name="Users.AUT_07">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Users 8"  >
+		<classes>
+			<class name="Users.AUT_08">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Users 9"  >
+		<classes>
+			<class name="Users.AUT_09">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Users 10"  >
+		<classes>
+			<class name="Users.AUT_10">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Users 11"  >
+		<classes>
+			<class name="Users.AUT_11">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Users 12"  >
+		<classes>
+			<class name="Users.AUT_12">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Users 13"  >
+		<classes>
+			<class name="Users.AUT_13">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Users 14"  >
+		<classes>
+			<class name="Users.AUT_14">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Users 15"  >
+		<classes>
+			<class name="Users.AUT_15">
+			</class>
+		</classes>
+	</test>
+	
+	</suite>

@@ -1,0 +1,130 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Edit User Audit Log Entries Suite" verbose = "1" >
+
+	<test name="Edit User Audit Log Entries 1"  >
+		<classes>
+			<class name="EditUserAul.ALTC_01">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User Audit Log 2"  >
+		<classes>
+			<class name="EditUserAul.ALTC_02">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User Audit Log 3"  >
+		<classes>
+			<class name="EditUserAul.ALTC_03">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User Audit Log 4"  >
+		<classes>
+			<class name="EditUserAul.ALTC_04">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User Audit Log 5"  >
+		<classes>
+			<class name="EditUserAul.ALTC_05">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User Audit Log 6"  >
+		<classes>
+			<class name="EditUserAul.ALTC_06">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User Audit Log 7"  >
+		<classes>
+			<class name="EditUserAul.ALTC_07">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User Audit Log 8"  >
+		<classes>
+			<class name="EditUserAul.ALTC_08">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User Audit Log 9"  >
+		<classes>
+			<class name="EditUserAul.ALTC_09">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User Audit Log 10"  >
+		<classes>
+			<class name="EditUserAul.ALTC_10">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User Audit Log 11"  >
+		<classes>
+			<class name="EditUserAul.ALTC_11">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User Audit Log 12"  >
+		<classes>
+			<class name="EditUserAul.ALTC_12">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User Audit Log 13"  >
+		<classes>
+			<class name="EditUserAul.ALTC_13">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User Audit Log 14"  >
+		<classes>
+			<class name="EditUserAul.ALTC_14">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User Audit Log 15"  >
+		<classes>
+			<class name="EditUserAul.ALTC_15">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User Audit Log 16"  >
+		<classes>
+			<class name="EditUserAul.ALTC_16">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User Audit Log 17"  >
+		<classes>
+			<class name="EditUserAul.ALTC_17">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User Audit Log 18"  >
+		<classes>
+			<class name="EditUserAul.ALTC_18">
+			</class>
+		</classes>
+	</test>
+	
+	</suite>

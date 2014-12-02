@@ -1,0 +1,25 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Edit Group Suite" verbose = "1" >
+
+	<test name="Edit Group 1"  >
+		<classes>
+			<class name="editgroup.GE_01">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Group 2"  >
+		<classes>
+			<class name="editgroup.GE_02">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit Group 3"  >
+		<classes>
+			<class name="editgroup.GE_03">
+			</class>
+		</classes>
+	</test>
+	
+	</suite>

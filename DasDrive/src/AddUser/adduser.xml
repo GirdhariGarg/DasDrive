@@ -1,0 +1,263 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Add User Suite" verbose = "1" >
+
+	<test name="Add User 1"  >
+		<classes>
+			<class name="AddUser.AUT_01">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 2"  >
+		<classes>
+			<class name="AddUser.AUT_02">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 3"  >
+		<classes>
+			<class name="AddUser.AUT_03">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 4"  >
+		<classes>
+			<class name="AddUser.AUT_04">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 5"  >
+		<classes>
+			<class name="AddUser.AUT_05">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 6"  >
+		<classes>
+			<class name="AddUser.AUT_06">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 7"  >
+		<classes>
+			<class name="AddUser.AUT_07">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 8"  >
+		<classes>
+			<class name="AddUser.AUT_08">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 9"  >
+		<classes>
+			<class name="AddUser.AUT_09">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 10"  >
+		<classes>
+			<class name="AddUser.AUT_10">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 11"  >
+		<classes>
+			<class name="AddUser.AUT_11">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 12"  >
+		<classes>
+			<class name="AddUser.AUT_12">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 13"  >
+		<classes>
+			<class name="AddUser.AUT_13">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 14"  >
+		<classes>
+			<class name="AddUser.AUT_14">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 15"  >
+		<classes>
+			<class name="AddUser.AUT_15">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 16"  >
+		<classes>
+			<class name="AddUser.AUT_16">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 17"  >
+		<classes>
+			<class name="AddUser.AUT_17">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 18"  >
+		<classes>
+			<class name="AddUser.AUT_18">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 19"  >
+		<classes>
+			<class name="AddUser.AUT_19">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 20"  >
+		<classes>
+			<class name="AddUser.AUT_20">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 21"  >
+		<classes>
+			<class name="AddUser.AUT_21">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 22"  >
+		<classes>
+			<class name="AddUser.AUT_22">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 23"  >
+		<classes>
+			<class name="AddUser.AUT_23">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 24"  >
+		<classes>
+			<class name="AddUser.AUT_24">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 25"  >
+		<classes>
+			<class name="AddUser.AUT_25">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 26"  >
+		<classes>
+			<class name="AddUser.AUT_26">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 27"  >
+		<classes>
+			<class name="AddUser.AUT_27">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 28"  >
+		<classes>
+			<class name="AddUser.AUT_28">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 29"  >
+		<classes>
+			<class name="AddUser.AUT_29">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 30"  >
+		<classes>
+			<class name="AddUser.AUT_30">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 31"  >
+		<classes>
+			<class name="AddUser.AUT_31">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 32"  >
+		<classes>
+			<class name="AddUser.AUT_32">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 33"  >
+		<classes>
+			<class name="AddUser.AUT_33">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 34"  >
+		<classes>
+			<class name="AddUser.AUT_34">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 35"  >
+		<classes>
+			<class name="AddUser.AUT_35">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 36"  >
+		<classes>
+			<class name="AddUser.AUT_36">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add User 37"  >
+		<classes>
+			<class name="AddUser.AUT_37">
+			</class>
+		</classes>
+	</test>
+	
+	</suite>

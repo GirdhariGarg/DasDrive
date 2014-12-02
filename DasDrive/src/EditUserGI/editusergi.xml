@@ -1,0 +1,202 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Edit User General Info Entries Suite" verbose = "1" >
+
+	<test name="Edit User General Info Entries 1"  >
+		<classes>
+			<class name="EditUserGI.UGTC_01">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 2"  >
+		<classes>
+			<class name="EditUserGI.UGTC_02">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 3"  >
+		<classes>
+			<class name="EditUserGI.UGTC_03">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 4"  >
+		<classes>
+			<class name="EditUserGI.UGTC_04">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 5"  >
+		<classes>
+			<class name="EditUserGI.UGTC_05">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 6"  >
+		<classes>
+			<class name="EditUserGI.UGTC_06">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 7"  >
+		<classes>
+			<class name="EditUserGI.UGTC_07">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 8"  >
+		<classes>
+			<class name="EditUserGI.UGTC_08">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 9"  >
+		<classes>
+			<class name="EditUserGI.UGTC_09">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 10"  >
+		<classes>
+			<class name="EditUserGI.UGTC_10">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 11"  >
+		<classes>
+			<class name="EditUserGI.UGTC_11">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 12"  >
+		<classes>
+			<class name="EditUserGI.UGTC_12">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 13"  >
+		<classes>
+			<class name="EditUserGI.UGTC_13">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 14"  >
+		<classes>
+			<class name="EditUserGI.UGTC_14">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 15"  >
+		<classes>
+			<class name="EditUserGI.UGTC_15">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 16"  >
+		<classes>
+			<class name="EditUserGI.UGTC_16">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 17"  >
+		<classes>
+			<class name="EditUserGI.UGTC_17">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 18"  >
+		<classes>
+			<class name="EditUserGI.UGTC_18">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 19"  >
+		<classes>
+			<class name="EditUserGI.UGTC_19">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 20"  >
+		<classes>
+			<class name="EditUserGI.UGTC_20">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 21"  >
+		<classes>
+			<class name="EditUserGI.UGTC_21">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 22"  >
+		<classes>
+			<class name="EditUserGI.UGTC_22">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 23"  >
+		<classes>
+			<class name="EditUserGI.UGTC_23">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 24"  >
+		<classes>
+			<class name="EditUserGI.UGTC_24">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 25"  >
+		<classes>
+			<class name="EditUserGI.UGTC_25">
+			</class>
+		</classes>
+	</test>
+	
+	
+	<test name="Edit User General Info 26"  >
+		<classes>
+			<class name="EditUserGI.UGTC_26">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 27"  >
+		<classes>
+			<class name="EditUserGI.UGTC_27">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Edit User General Info 28"  >
+		<classes>
+			<class name="EditUserGI.UGTC_28">
+			</class>
+		</classes>
+	</test>
+	
+	
+	</suite>

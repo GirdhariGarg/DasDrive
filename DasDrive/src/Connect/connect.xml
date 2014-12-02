@@ -1,0 +1,32 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Connect Suite" verbose = "1" >
+
+	<test name="Connect 1"  >
+		<classes>
+			<class name="Connect.CTS_01">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Connect 2"  >
+		<classes>
+			<class name="Connect.CTS_02">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Connect 3"  >
+		<classes>
+			<class name="Connect.CTS_03">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Connect 4"  >
+		<classes>
+			<class name="Connect.CTS_04">
+			</class>
+		</classes>
+	</test>
+
+	</suite>

@@ -1,0 +1,221 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Add Volume Suite" verbose = "1" >
+
+	<test name="Add Volume 1"  >
+		<classes>
+			<class name="AddVolume.AVST_01">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 2"  >
+		<classes>
+			<class name="AddVolume.AVST_02">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 3"  >
+		<classes>
+			<class name="AddVolume.AVST_03">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 4"  >
+		<classes>
+			<class name="AddVolume.AVST_04">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 5"  >
+		<classes>
+			<class name="AddVolume.AVST_05">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 6"  >
+		<classes>
+			<class name="AddVolume.AVST_06">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 7"  >
+		<classes>
+			<class name="AddVolume.AVST_07">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 8"  >
+		<classes>
+			<class name="AddVolume.AVST_08">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 9"  >
+		<classes>
+			<class name="AddVolume.AVST_09">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 10"  >
+		<classes>
+			<class name="AddVolume.AVST_10">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 11"  >
+		<classes>
+			<class name="AddVolume.AVST_11">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 12"  >
+		<classes>
+			<class name="AddVolume.AVST_12">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 13"  >
+		<classes>
+			<class name="AddVolume.AVST_13">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 14"  >
+		<classes>
+			<class name="AddVolume.AVST_14">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 15"  >
+		<classes>
+			<class name="AddVolume.AVST_15">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 16"  >
+		<classes>
+			<class name="AddVolume.AVST_16">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 17"  >
+		<classes>
+			<class name="AddVolume.AVST_17">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 18"  >
+		<classes>
+			<class name="AddVolume.AVST_18">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 19"  >
+		<classes>
+			<class name="AddVolume.AVST_19">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 20"  >
+		<classes>
+			<class name="AddVolume.AVST_21">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 22"  >
+		<classes>
+			<class name="AddVolume.AVST_22">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 23"  >
+		<classes>
+			<class name="AddVolume.AVST_23">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 24"  >
+		<classes>
+			<class name="AddVolume.AVST_25">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 25"  >
+		<classes>
+			<class name="AddVolume.AVST_25">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 26"  >
+		<classes>
+			<class name="AddVolume.AVST_26">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 27"  >
+		<classes>
+			<class name="AddVolume.AVST_27">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 28"  >
+		<classes>
+			<class name="AddVolume.AVST_28">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 29"  >
+		<classes>
+			<class name="AddVolume.AVST_29">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 30"  >
+		<classes>
+			<class name="AddVolume.AVST_30">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 31"  >
+		<classes>
+			<class name="AddVolume.AVST_31">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Add Volume 32"  >
+		<classes>
+			<class name="AddVolume.AVST_32">
+			</class>
+		</classes>
+	</test>
+	
+	</suite>

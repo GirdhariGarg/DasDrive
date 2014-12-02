@@ -1,0 +1,123 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Document Bundle Suite" verbose = "1" >
+
+	<test name="Document Bundle 1"  >
+		<classes>
+			<class name="documentBundle.DBT_01">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Document Bundle 2"  >
+		<classes>
+			<class name="documentBundle.DBT_02">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Document Bundle 3"  >
+		<classes>
+			<class name="documentBundle.DBT_03">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Document Bundle 4"  >
+		<classes>
+			<class name="documentBundle.DBT_04">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Document Bundle 5"  >
+		<classes>
+			<class name="documentBundle.DBT_05">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Document Bundle 6"  >
+		<classes>
+			<class name="documentBundle.DBT_06">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Document Bundle 7"  >
+		<classes>
+			<class name="documentBundle.DBT_07">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Document Bundle 8"  >
+		<classes>
+			<class name="documentBundle.DBT_08">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Document Bundle 9"  >
+		<classes>
+			<class name="documentBundle.DBT_09">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Document Bundle 10"  >
+		<classes>
+			<class name="documentBundle.DBT_10">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Document Bundle 11"  >
+		<classes>
+			<class name="documentBundle.DBT_11">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Document Bundle 12"  >
+		<classes>
+			<class name="documentBundle.DBT_12">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Document Bundle 13"  >
+		<classes>
+			<class name="documentBundle.DBT_13">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Document Bundle 14"  >
+		<classes>
+			<class name="documentBundle.DBT_14">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Document Bundle 15"  >
+		<classes>
+			<class name="documentBundle.DBT_15">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Document Bundle 16"  >
+		<classes>
+			<class name="documentBundle.DBT_16">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Document Bundle 17"  >
+		<classes>
+			<class name="documentBundle.DBT_17">
+			</class>
+		</classes>
+	</test>
+	
+	</suite>

@@ -1,0 +1,221 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Search By File  Suite" verbose = "1" >
+
+	<test name="Search By File 1"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_01">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 2"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_02">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 3"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_03">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 4"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_04">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 5"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_05">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 6"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_06">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 7"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_07">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 8"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_08">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 9"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_09">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 10"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_10">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 11"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_11">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 12"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_12">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 13"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_13">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 14"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_14">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 15"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_15">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 16"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_16">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 17"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_17">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 18"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_18">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 19"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_19">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 20"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_20">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 21"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_21">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 22"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_22">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 23"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_23">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 24"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_24">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 25"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_25">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 26"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_26">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 27"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_27">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 28"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_28">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 29"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_29">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 30"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_30">
+			</class>
+		</classes>
+	</test>
+	
+	<test name="Search By File 31"  >
+		<classes>
+			<class name="searchbyfile.SBFTC_31">
+			</class>
+		</classes>
+	</test>
+	
+	</suite>
